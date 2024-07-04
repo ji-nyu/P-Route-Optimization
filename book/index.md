@@ -1,13 +1,15 @@
-# p-route-optimization
+# Home
 
-
+[![pypi-image]][pypi-url]
 [![version-image]][release-url]
 [![release-date-image]][release-url]
 [![license-image]][license-url]
-[![codecov][codecov-image]][codecov-url]
 [![jupyter-book-image]][docs-url]
+[![codecov][codecov-image]][codecov-url]
 
 <!-- Links: -->
+[hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
+
 [codecov-image]: https://codecov.io/gh/ji-nyu/p-route-optimization/branch/main/graph/badge.svg?token=[REPLACE_ME]
 [codecov-url]: https://codecov.io/gh/ji-nyu/p-route-optimization
 [pypi-image]: https://img.shields.io/pypi/v/p-route-optimization
@@ -29,7 +31,7 @@
 
 - Documentation: [https://ji-nyu.github.io/p-route-optimization][docs-url]
 - GitHub: [https://github.com/ji-nyu/p-route-optimization][repo-url]
-
+- PyPI: [https://pypi.org/project/p-route-optimization][pypi-url]
 
 
 
@@ -44,3 +46,8 @@ Contributions are welcome! Please see the [contributing guidelines] for more inf
 ## License
 
 This project is released under the [MIT License][license-url].
+
+## Table of Contents
+
+```{tableofcontents}
+```

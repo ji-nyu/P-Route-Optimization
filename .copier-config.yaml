@@ -1,0 +1,35 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.14.4
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Park Jin Woo
+build_and_release: false
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: ''
+codecov_graph_token: '[REPLACE_ME]'
+copyright_year: 2024
+documentaion_tool: jupyter-book
+documentation_url: https://ji-nyu.github.io/p-route-optimization
+email: zxcv091882@gmail.com
+favicon_path: ''
+friendly_name: p-route-optimization
+github_repo_name: p-route-optimization
+github_username: ji-nyu
+google_analytics_id: ''
+logo_path: ''
+main_branch: main
+open_link: false
+package_name: p_route_optimization
+package_scripts:
+- p_route_optimization = 'p_route_optimization.__cli__:main'
+poe_task_files:
+- .tasks.toml
+- .tasks-extra.toml
+project_description: ''
+project_license: MIT
+project_name: p-route-optimization
+project_short_description: ''
+upload_to_release: false
+upload_to_repository: false
+use_launch_buttons: false
+use_source_code_skeleton: false
+
