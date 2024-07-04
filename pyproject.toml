@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "p-route-optimization"
-version = "0.0.0"
+version = "0.1.0"
 description = ""
 authors = ["Park Jin Woo <zxcv091882@gmail.com>"]
 license = "MIT"
